@@ -1,0 +1,11 @@
+test_login:
+  test_login_001:
+    username: "18355700120"
+    password: "st998929"
+    screen: '1'
+  test_login_002:
+    username: "1835xxx0"
+    password: "xxx29"
+    screen: '2'
+
+
