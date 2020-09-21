@@ -1,3 +1,4 @@
+// 在Appium中用的Selenimu造的轮子
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 class BaseAction:
